@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "source",
+            "name": "anh-php-src Source"
+        },
+        {
+            "folder_exclude_patterns":
+            [
+                "anh-php-src/source"
+            ],
+            "follow_symlinks": true,
+            "name": "anh-php-src root",
+            "path": "."
+        }
+    ]
+}
